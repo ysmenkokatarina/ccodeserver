@@ -1,0 +1,21 @@
+{
+  "name": "ccodeserver",
+  "version": "1.0.0",
+  "description": "A simple web server for checking JavaScript code quality.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ysmenkokatarina/ccodeserver.git"
+  },
+  "keywords": [
+    "web server",
+    "JavaScript",
+    "code quality",
+    "clearcodechecker"
+  ],
+  "author": "ysmenkokatarina",
+  "license": "MIT"
+}
