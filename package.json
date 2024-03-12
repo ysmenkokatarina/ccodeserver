@@ -20,8 +20,8 @@
   "dependencies": {
     "validator": "^13.6.0",
     "lodash": "^4.17.21",
-    "clearcodechecker": "^1.0.1",
+    "clearcodechecker": "^1.0.1"
 
-  }
+  },
   "license": "MIT"
 }
